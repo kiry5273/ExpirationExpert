@@ -1,0 +1,17 @@
+[
+    {
+        "classes":"vegetable",
+        "image":"vegetable",
+        "name":"娃娃菜"
+    },
+    {
+        "classes":"drink",
+        "image":"drink",
+        "name":"鮮奶茶"
+    },
+    {
+        "classes":"snacks",
+        "image":"snacks",
+        "name":"洋芋片"
+    }
+]
